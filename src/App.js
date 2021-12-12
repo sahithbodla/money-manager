@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       Hello
+      {/* This is a testing comment */}
     </div>
   );
 }
